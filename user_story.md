@@ -12,4 +12,4 @@ I'd like to see if a bike is working
 |-------|--------|
 |Person|         |
 |DockingStation|release_bike|
-|bike|working?|
+|Bike|working?|
