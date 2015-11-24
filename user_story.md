@@ -1,4 +1,3 @@
-
 Story 1:
 As a person,
 So that I can use a bike,
@@ -12,5 +11,5 @@ I'd like to see if a bike is working
 |Objects|Messages|
 |-------|--------|
 |Person|         |
-|DockingStation|release_bike| 
+|DockingStation|release_bike|
 |bike|working?|
