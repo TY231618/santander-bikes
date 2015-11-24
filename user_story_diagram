@@ -1,0 +1,4 @@
+How my objects will communicate with one another
+
+Bike <--- working? ---> true/false
+DockingStation <--- release_bike ---> a Bike
